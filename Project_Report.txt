@@ -1,0 +1,34 @@
+# SMART DIGITAL EXPENSE TRACKER WITH BUDGET PREDICTION
+
+## 1. Objective
+To develop a C++ based expense management system that allows users to record daily expenses, manage monthly budgets, view expense history and predict future expenses.
+
+## 2. Algorithm / Logic
+1. Start the program.
+2. Register a user or log in.
+3. Display the expense tracker menu.
+4. Allow the user to add, view, search and delete expenses.
+5. Calculate total and category-wise expenses.
+6. Set a monthly budget.
+7. Display budget warnings and predicted expenses.
+8. Save expense records in a file.
+9. Exit the program.
+
+## 3. Source Code
+The complete C++ source code is saved in the file `main.cpp`.
+
+## 4. Sample Input and Output
+
+Sample Input:
+- Choice: 1 (Register)
+- Username: Student
+- Password: 1234
+- Choice: 2 (Login)
+
+Sample Output:
+- Registration successful!
+- Login successful!
+- Expense Tracker Menu displayed.
+
+## 5. Conclusion
+The project demonstrates the use of C++ programming concepts such as variables, loops, arrays, structures, functions, conditional statements and file handling. It helps users manage daily expenses and monitor their budgets.
